@@ -62,11 +62,11 @@ Users can chat with the assistant in real time, view previous conversations, and
 │
 ├── .env                    # Root or per app env (not committed)
 ├── README.md
-└── package.j
+└── package.json
 
 
 📬 Contact
 
 Author: Priyanshu Raj
-son            # (optional) for root scripts using concurrently
+           
 

@@ -65,7 +65,6 @@ Users can chat with the assistant in real time, view previous conversations, and
 └── package.json
 
 
-📬 Contact
 
 Author: Priyanshu Raj
            

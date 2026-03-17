@@ -15,7 +15,7 @@ Users can chat with the assistant in real time, view previous conversations, and
 - ⚙️ **Configurable AI Settings** – Temperature, max tokens, system prompt, etc.  
 - 🧩 **Modular & Scalable MERN Architecture**
 
-> ✏️ _Update this section to match exactly what your app supports._
+
 
 ---
 

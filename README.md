@@ -16,7 +16,6 @@ Users can chat with the assistant in real time, view previous conversations, and
 - 🧩 **Modular & Scalable MERN Architecture**
 
 
-
 ---
 
 ## 🛠️ Tech Stack

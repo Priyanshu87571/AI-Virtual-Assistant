@@ -41,7 +41,7 @@ Users can chat with the assistant in real time, view previous conversations, and
 ├── client/                 ## React frontend
 │   ├── src/
 │   │   ├── components/     ## Reusable UI components (ChatBox, MessageBubble, etc.)
-│   │   ├── pages/          # Route pages (Login, Signup, Chat, Profile)
+│   │   ├── pages/          ## Route pages (Login, Signup, Chat, Profile)
 │   │   ├── context/        # Auth / Theme / App context
 │   │   ├── hooks/          # Custom React hooks
 │   │   ├── services/       # API calls

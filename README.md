@@ -58,7 +58,7 @@ Users can chat with the assistant in real time, view previous conversations, and
 │   │   └── app.js / index.js
 │   └── package.json
 │
-├── .env                    # Root or per app env (not committed)
+├── .env                    ## Root or per app env (not committed)
 ├── README.md
 └── package.json
 

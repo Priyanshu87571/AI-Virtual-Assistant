@@ -57,7 +57,8 @@ Users can chat with the assistant in real time, view previous conversations, and
 │   └── package.json
 
 
-├── server/                 ## Node + Express backend
+
+├── server/                
 │   ├── src/
 │   │   ├── config/         ## DB connection, env config
 │   │   ├── controllers/    ## Route handlers (auth, chat, user)

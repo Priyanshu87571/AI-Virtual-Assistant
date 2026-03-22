@@ -46,7 +46,7 @@ Users can chat with the assistant in real time, view previous conversations, and
 
 │   ├── pages/
 
-│   │   ├── context/
+│   ├── context/
 
 │   │   ├── hooks/   
 

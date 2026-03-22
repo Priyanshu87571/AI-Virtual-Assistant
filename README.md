@@ -17,7 +17,7 @@ Users can chat with the assistant in real time, view previous conversations, and
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Frontend**
 - React / Vite or CRA (React)

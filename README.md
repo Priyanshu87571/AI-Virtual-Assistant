@@ -62,28 +62,25 @@ Users can chat with the assistant in real time, view previous conversations, and
 
 │   ├── src/
 
-│   │   ├── config/
+│   ├── config/
 
-│   │   ├── controllers/
+│   ├── controllers/
 
-│   │   ├── models/ 
+│   ├── models/ 
 
-│   │   ├── routes/ 
+│   ├── routes/ 
 
-│   │   ├── middleware/
+│   ├── middleware/
 
-│   │   └── app.js / index.js
-
+│   └── app.js / index.js
 
 │   └── package.json
 
-│
 ├── .env
 
 ├── README.md
 
 └── package.json
-
 
 Author : Priyanshu Raj
            

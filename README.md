@@ -5,7 +5,7 @@ Users can chat with the assistant in real time, view previous conversations, and
 
 ---
 
-## 🚀 Features
+##  Features
 
 - 💬 **AI Chat Interface** – Real-time conversation with an AI assistant  
 - 📚 **Conversation History** – Save and view previous chats  

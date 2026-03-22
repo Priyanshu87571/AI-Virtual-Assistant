@@ -58,18 +58,30 @@ Users can chat with the assistant in real time, view previous conversations, and
 
 
 
-├── server/                
+├── server/ 
+
 │   ├── src/
-│   │   ├── config/         ## DB connection, env config
-│   │   ├── controllers/    ## Route handlers (auth, chat, user)
-│   │   ├── models/         ## Mongoose models (User, Message, Conversation)
-│   │   ├── routes/         ## Express routes
-│   │   ├── middleware/     ## Auth, error handling, etc.
+
+│   │   ├── config/
+## DB connection, env config
+│   │   ├── controllers/
+## Route handlers (auth, chat, user)
+│   │   ├── models/ 
+## Mongoose models (User, Message, Conversation)
+│   │   ├── routes/ 
+## Express routes
+│   │   ├── middleware/
+## Auth, error handling, etc.
 │   │   └── app.js / index.js
+
+
 │   └── package.json
+
 │
-├── .env                    ## Root or per app env (not committed)
+├── .env
+## Root or per app env (not committed)
 ├── README.md
+
 └── package.json
 
 

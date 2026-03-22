@@ -44,7 +44,7 @@ Users can chat with the assistant in real time, view previous conversations, and
 │   │   ├── pages/          ## Route pages (Login, Signup, Chat, Profile)
 │   │   ├── context/        ## Auth / Theme / App context
 │   │   ├── hooks/          ## Custom React hooks
-│   │   ├── services/       # API calls
+│   │   ├── services/       ## API calls
 │   │   └── main.jsx / index.js
 │   └── package.json
 │

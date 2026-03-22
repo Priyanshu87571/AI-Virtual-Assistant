@@ -52,7 +52,7 @@ Users can chat with the assistant in real time, view previous conversations, and
 │   ├── src/
 │   │   ├── config/         ## DB connection, env config
 │   │   ├── controllers/    ## Route handlers (auth, chat, user)
-│   │   ├── models/         # Mongoose models (User, Message, Conversation)
+│   │   ├── models/         ## Mongoose models (User, Message, Conversation)
 │   │   ├── routes/         # Express routes
 │   │   ├── middleware/     # Auth, error handling, etc.
 │   │   └── app.js / index.js

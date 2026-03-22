@@ -36,7 +36,7 @@ Users can chat with the assistant in real time, view previous conversations, and
 
 ## 📁 Project Structure
 
-''' bash
+'''bash
 .
 ├── client/                 # React frontend
 │   ├── src/

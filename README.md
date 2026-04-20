@@ -1,4 +1,4 @@
-# 🤖 AI Virtual Assistant 
+# 🤖 AI Virtual Assistant
 
 An AI-powered virtual assistant built with the **MERN stack** (MongoDB, Express, React, Node.js).  
 Users can chat with the assistant in real time, view previous conversations, and manage their account securely.

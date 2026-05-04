@@ -11,7 +11,7 @@ Users can chat with the assistant in real time, view previous conversations, and
 - 📚 **Conversation History** – Save and view previous chats  
 - 👤 **User Authentication** – Register / Login with JWT-based auth  
 - 🌗 **Dark / Light Mode** (optional)  
-- 🎙️ **Voice Input / Output** (optional, if you implemented it)  
+- 🎙️ **Voice Input / Output**   
 - ⚙️ **Configurable AI Settings** – Temperature, max tokens, system prompt, etc.  
 - 🧩 **Modular & Scalable MERN Architecture**
 

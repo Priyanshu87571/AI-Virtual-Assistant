@@ -23,7 +23,7 @@ Users can chat with the assistant in real time, view previous conversations, and
 - React / Vite or CRA (React)
 - React Router
 - Axios / Fetch
-- Tailwind CSS / Material UI / CSS Modules (update as needed)
+- Tailwind CSS / Material UI / CSS Modules 
 
 **Backend**
 - Node.js

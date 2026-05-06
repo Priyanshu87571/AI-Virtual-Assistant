@@ -20,7 +20,7 @@ Users can chat with the assistant in real time, view previous conversations, and
 ##  Tech Stack
 
 **Frontend**
-- React / Vite or CRA (React)
+- React / Vite (React)
 - React Router
 - Axios / Fetch
 - Tailwind CSS / Material UI / CSS Modules 
